@@ -15,7 +15,7 @@ I'm a full stack developer but mostly Frontend...
 
 🤔 I'm looking for help with more hands experience internship. 
 
-📫 How to reach me: Linkedin, Gmail
+📫 How to reach me: makanjuolayusuf@gmail.com
 
 😄 Pronouns: He/Him
 
