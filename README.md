@@ -39,7 +39,7 @@ Javascript, HTML, CSS...
 
 
 
-## Authors
+## Author
 
 - [@uumak](https://github.com/uumak)
 
